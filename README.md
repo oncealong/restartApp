@@ -10,7 +10,7 @@ How to restart android app programmatically? Look here!
 2.Intent.makeRestartActivityTask  
 3.JobScheduler和Intent  
 
-没有做兼容性测试，但是在三星S6 Edge和荣耀X6上，这三种都是可以工作的。
+没有做兼容性测试，但是在三星S6 Edge和荣耀X6上，这三种都是可以工作的。  
 如果您发现在某种机型上无法重启，欢迎反馈。
 
 
